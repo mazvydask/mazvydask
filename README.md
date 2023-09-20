@@ -9,6 +9,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Singletons in Swift](https://codebymaz.com/navigating-singletons-in-swift)
+- [Hello World!](https://codebymaz.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
