@@ -11,7 +11,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Swift Testing for Network Requests](https://codebymaz.com/swift-testing-for-network-requests)
 - [Navigating Singletons in Swift](https://codebymaz.com/navigating-singletons-in-swift)
-- [Hello World!](https://codebymaz.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
