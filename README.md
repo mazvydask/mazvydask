@@ -2,10 +2,9 @@
 <h3 align="left">An iOS Engineer from Copenhagen, passionate about using building lasting products for a positive impact.</h3>
 
 - 🔭 I’m currently working on [eTilbudsavis and Mattilbud](https://tjek.com)
-- 🌱 I’m advancing my skills through the [iOS Lead Essentials Course](https://www.essentialdeveloper.com)
 - 📝 Discover my insights and tutorials on [Code by Maz](https://codebymaz.com)
-- 🤔 I’m looking to further my network in the tech industry.
-- 💬 Let's talk about **Mobile Development, Electric Cars, Finances, DIY projects and everything else in between.**
+- 🤔 I’m looking to expand my network in the tech industry.
+- 💬 Let's talk about **App Development, Electric Cars, Personal Finances, DIY projects, and everything else in between.**
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
