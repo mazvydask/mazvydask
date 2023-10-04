@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Mazvydas</h1>
-<h3 align="left">An iOS Engineer from Copenhagen, passionate about using building lasting products for a positive impact.</h3>
+<h3 align="left">An iOS Engineer from Copenhagen, passionate about building lasting product experiences for a positive impact.</h3>
 
 - 🔭 I’m currently working on [eTilbudsavis and Mattilbud](https://tjek.com)
-- 📝 Discover my insights and tutorials on [Code by Maz](https://codebymaz.com)
+- 📝 I've started to blog on [Code by Maz](https://codebymaz.com)
 - 🤔 I’m looking to expand my network in the tech industry.
 - 💬 Let's talk about **App Development, Electric Cars, Personal Finances, DIY projects, and everything else in between.**
 
