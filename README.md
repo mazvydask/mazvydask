@@ -8,6 +8,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering SwiftUI Performance](https://codebymaz.com/mastering-swiftui-performance-054d289c8908?source=rss----d9d2cd10aa3c---4)
 - [A Deep Dive into URLCache](https://codebymaz.com/a-deep-dive-into-urlcache-070865d25e24?source=rss----d9d2cd10aa3c---4)
 - [Hello World!](https://codebymaz.com/hello-world-b876162817f?source=rss----d9d2cd10aa3c---4)
 <!-- BLOG-POST-LIST:END -->
