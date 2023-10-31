@@ -8,10 +8,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftData: Transforming Data Persistence in Swift](https://codebymaz.com/swiftdata-transforming-data-persistence-in-swift-0c2c9f0773c7?source=rss----d9d2cd10aa3c---4)
 - [Mastering Network Reachability in iOS](https://codebymaz.com/mastering-network-reachability-in-ios-8a0cbe9dde1a?source=rss----d9d2cd10aa3c---4)
 - [Mastering SwiftUI Performance](https://codebymaz.com/mastering-swiftui-performance-054d289c8908?source=rss----d9d2cd10aa3c---4)
 - [A Deep Dive into URLCache](https://codebymaz.com/a-deep-dive-into-urlcache-070865d25e24?source=rss----d9d2cd10aa3c---4)
+- [Hello World!](https://codebymaz.com/hello-world-b876162817f?source=rss----d9d2cd10aa3c---4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
